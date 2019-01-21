@@ -2,7 +2,6 @@ import { Injectable } from '@angular/core';
 import {HttpClient, HttpHeaders} from '@angular/common/http'
 import {map} from 'rxjs/operators'
 import {API_URL} from '../app.constrants'
-import {HelloBean} from './data/welcome-data.service'
 
 @Injectable({
   providedIn: 'root'
