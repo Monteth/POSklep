@@ -1,7 +1,6 @@
 import {Component, OnInit} from '@angular/core'
 import {Software, SoftwareService} from '../service/data/software.service'
-import {ActivatedRoute, NavigationStart, Router} from '@angular/router'
-import {el} from '@angular/platform-browser/testing/src/browser_util'
+import {ActivatedRoute, Router} from '@angular/router'
 
 @Component({
     selector: 'app-todo-list',

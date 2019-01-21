@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import {Router} from '@angular/router'
-import {el} from '@angular/platform-browser/testing/src/browser_util'
 
 @Component({
   selector: 'app-menu',

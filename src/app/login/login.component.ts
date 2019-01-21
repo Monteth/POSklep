@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import {Router} from '@angular/router';
-import {BasicAuthenticationService} from '../service/basic-authentication.service'
 import {PatronService} from '../service/data/patron.service'
 
 @Component({

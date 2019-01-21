@@ -1,7 +1,5 @@
 import {Component, OnInit} from '@angular/core'
 import {Router} from '@angular/router'
-import {PupilBean} from '../service/data/patron.service'
-import {forEach} from '@angular/router/src/utils/collection'
 
 @Component({
     selector: 'app-set-restrictions',
